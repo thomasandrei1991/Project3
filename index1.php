@@ -5,6 +5,12 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <form action="index1.php" method="post">
+        <label for="firstname">Firstname : </label>
+        <input type="text" id="firstname" name="firstname"><br>
+        <label for="lastname">Lastname : </label>
+        <input type="text" id="lastname" name="lastname"><br>
+        <input type="submit" value="Submit">    
+    </form>
 </body>
 </html>
