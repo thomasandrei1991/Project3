@@ -8,10 +8,11 @@
     <body>
         <form action="index1.php" method="post">
             <label for="firstname">Firstname : </label>
-            <input type="text" id="firstname" name="firstname"><br>
+            <input type="text" id="firstname" name="firstname"><br><br>
             <label for="lastname">Lastname : </label>
-            <input type="text" id="lastname" name="lastname"><br>
-            <input type="submit" value="Submit">    
+            <input type="text" id="lastname" name="lastname"><br><br>
+            <input type="submit" value="Submit" id="submitBtn"> 
+              
         </form>
     </body>
 </html>
