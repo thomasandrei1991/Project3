@@ -5,10 +5,10 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Locations</title>
+        <title>My Webpage</title>
     </head>
     <body>
-        You are in Locations Page
+        Welcome to My Webpage
         <br><br>
     </body>
 </html>
