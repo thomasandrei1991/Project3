@@ -1,0 +1,32 @@
+.container{
+    width: 0 auto;
+    height: 0 auto;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 0 auto;
+    border: 2px solid white;
+    border-radius: 25px;
+    padding: 20px;
+}
+.container:hover{
+    box-shadow: 0 0 10px white;
+    cursor: pointer;
+    border-color: cyan;
+}
+
+.logo{
+    display: block;
+    margin: 0 auto;
+    height: 220px;
+    width: 400px;
+   
+}
+p{
+     font-family: Arial, Helvetica, sans-serif;  
+     text-align: center;
+     color: white;
+     font-size: 20;
+}
+body{
+    background-color: darkgrey;
+}
